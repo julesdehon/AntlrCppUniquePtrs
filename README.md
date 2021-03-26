@@ -1,3 +1,8 @@
+# A modified version of the Antlr C++ runtime
+Allows for returning `unique_ptr` from a visitor method (as `antlrcpp::Any`).
+
+Original ReadMe below:
+
 # C++ target for ANTLR 4
 
 This folder contains the C++ runtime support for ANTLR.  See [the canonical antlr4 repository](https://github.com/antlr/antlr4) for in depth detail about how to use ANTLR 4.
